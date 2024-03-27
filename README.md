@@ -16,3 +16,4 @@ These are weekly exercises to help you learn and develop data preparation skills
 | 2023 | Week 8 | ✅ | 1. Convert numerical strings to numbers, 2. Case statements, 3. Filtering on ranks and window functions|
 | 2023 | Week 9 | ✅ | 1. Common Table Expressions, 2. Unions, 3. Running Sums|
 | 2023 | Week 10 | ✅ | 1. Recursive Common Table Expressions, 2. Data Scaffolding, 3. Setting Variables|
+| 2023 | Week 11 | ✅ | 1. Cross Joins, 2. Math functions, 3. Row Number Sorting|
