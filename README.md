@@ -4,14 +4,15 @@ When learning a new skill, it is always important to practice, practice and prac
 These are weekly exercises to help you learn and develop data preparation skills. The challenges are designed for learning Tableau Prep but they can be completed in R, Python, SQL, DBT, EasyMorph and many other tools.
 # 💪 Challenges Completed
 
-| Year | Week | Completed! |
-| :-: | :-: | :-: |
-| 2023 | Week 1 | ✅ |
-| 2023 | Week 2 | ✅ |
-| 2023 | Week 3 | ✅ |
-| 2023 | Week 4 | ✅ |
-| 2023 | Week 5 | ✅ |
-| 2023 | Week 6 | ✅ |
-| 2023 | Week 7 | ✅ |
-| 2023 | Week 8 | ✅ |
-| 2023 | Week 9 | ✅ |
+| Year | Week | Completed! | Techniques |
+| :-: | :-: | :-: | :-: |
+| 2023 | Week 1 | ✅ | 1. Splitting strings with SPLIT_PART, 2. Case Statements, 3. Converting strings to dates |
+| 2023 | Week 2 | ✅ | 1. Removing substrings with REPLACE(), 2. Joining tables, 3. Combining several columns|
+| 2023 | Week 3 | ✅ | 1. Aggregating data and GROUP BY, 2. Editing strings with REPLACE and converting them to integers (numerical values), 3. Common Table Expressions (CTEs) and multi-key joins |
+| 2023 | Week 4 | ✅ | 1. UNION and UNION ALL, 2. PIVOT columns to rows, 3. Using ROW_NUMBER() to remove duplicates|
+| 2023 | Week 5 | ✅ | 1. Date functions, 2. Rank functions, 3. Common Table Expressions (CTEs)|
+| 2023 | Week 6 | ✅ | 1. PIVOT and UNPIVOTs, 2. Case Statements, 3. Subqueries for Percentage Totals|
+| 2023 | Week 7 | ✅ | 1. LATERAL SPLIT_TO_TABLE, 2. CONCAT columns and strings, 3. Multiple Join clauses|
+| 2023 | Week 8 | ✅ | 1. Convert numerical strings to numbers, 2. Case statements, 3. Filtering on ranks and window functions|
+| 2023 | Week 9 | ✅ | 1. Common Table Expressions, 2. Unions, 3. Running Sums|
+| 2023 | Week 10 | ✅ | 1. Recursive Common Table Expressions, 2. Data Scaffolding, 3. Setting Variables|
