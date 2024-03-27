@@ -14,3 +14,4 @@ These are weekly exercises to help you learn and develop data preparation skills
 | 2023 | Week 6 | ✅ |
 | 2023 | Week 7 | ✅ |
 | 2023 | Week 8 | ✅ |
+| 2023 | Week 9 | ✅ |
