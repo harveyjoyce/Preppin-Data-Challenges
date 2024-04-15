@@ -7,6 +7,8 @@ These are weekly exercises to help you learn and develop data preparation skills
 | Year | Week | Completed! | Techniques |
 | :-: | :-: | :-: | :-: |
 | 2021 | Week 1 | ✅ | 1. Splitting strings with SPLIT_PART, 2. Date Functions, 3. Case Statements |
+| 2021 | Week 2 | ✅ | 1. Regex Replace, 2. CTEs, 3. Group By Agg |
+|  |  |  |  |
 | 2023 | Week 1 | ✅ | 1. Splitting strings with SPLIT_PART, 2. Case Statements, 3. Converting strings to dates |
 | 2023 | Week 2 | ✅ | 1. Removing substrings with REPLACE(), 2. Joining tables, 3. Combining several columns |
 | 2023 | Week 3 | ✅ | 1. Aggregating data and GROUP BY, 2. Editing strings with REPLACE and converting them to integers (numerical values), 3. Common Table Expressions (CTEs) and multi-key joins |
