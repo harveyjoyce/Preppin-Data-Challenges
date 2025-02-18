@@ -1,8 +1,16 @@
 # Preppin' Data Challenges!
-When learning a new skill, it is always important to practice, practice and practice! Thus, I have been using the Preppin' Data Challenges to hone my skills in SQL and Snowflake. 
+When learning a new skill, it is always important to practice, practice and practice! Thus, I have been using the Preppin' Data Challenges to hone my skills in SQL and Python. 
 # 🅰️ About
 These are weekly exercises to help you learn and develop data preparation skills. The challenges are designed for learning Tableau Prep but they can be completed in R, Python, SQL, DBT, EasyMorph and many other tools.
-# 💪 Challenges Completed
+# 🐍 Python Challenges Completed
+
+| Year | Week | Completed! | Techniques |
+| :-: | :-: | :-: | :-: |
+| 2021 | Week 1 | ✅ | 1. Splitting strings with SPLIT_PART, 2. Date Functions, 3. Case Statements |
+| 2021 | Week 2 | ✅ | 1. Regex, 2. Date Diffs, 3. Group By Agg |
+| 2021 | Week 3 | ✅ | 1. Union Sheets with Loop, 2. Pivot, 3. Group By Agg |
+
+# 💪 SQL Challenges Completed
 
 | Year | Week | Completed! | Techniques |
 | :-: | :-: | :-: | :-: |
