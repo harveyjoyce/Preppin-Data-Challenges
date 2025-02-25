@@ -10,6 +10,7 @@ These are weekly exercises to help you learn and develop data preparation skills
 | 2021 | Week 2 | ✅ | 1. Regex, 2. Date Diffs, 3. Group By Agg |
 | 2021 | Week 3 | ✅ | 1. Union Sheets with Loop, 2. Pivot, 3. Group By Agg |
 | 2021 | Week 4 | ✅ | 1. Union Sheets with Loop, 2. Joins, 3. Rank |
+| 2021 | Week 5 | ✅ | 1. Duplications, 2. Joins, 3. Aggregate |
 
 # 💪 SQL Challenges Completed
 
